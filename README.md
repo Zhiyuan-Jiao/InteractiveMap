@@ -1,1 +1,1 @@
-# InteractiveMap.github.io
+# InteractiveMap
